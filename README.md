@@ -13,7 +13,7 @@
 ## Структура репозитория:
  В файлах Excel с названиями "кров 2017 год", "кров 2018 чув", "кров 2018", "кров 2019 год", "кров 2019" содержатся исходные данные датасета.  
  В файле blood.xlsx объединены все исходные данные.   
- Jupyter Notebook dataton_clearing содержит в себе предобработку данных, результатом которой являются файлы blood_data.csv и blood_culture.csv.   
+ Jupyter Notebook dataton_clearing содержит предобработку данных, результатом которой являются файлы blood_data.csv и blood_culture.csv.   
  Итоговый результат представлен в формате Jupyter Notebook и имеет название data_intelligence_bact.
 ## Blood_dictionary
 - год
